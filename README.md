@@ -57,5 +57,9 @@ This repository contains a UI/UX design concept for a mobile application develop
 ---
 
 ## Author
+---
 
-Raghad Mohammed Oteef
+## Team Members
+
+- Wejdan Hakami (GitHub: https://github.com/wejdan-h)
+- Raghad Oteef (GitHub: https://github.com/raghad-o)
